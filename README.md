@@ -4,7 +4,7 @@
 
 ---
 
-![Banner]('Portfolio/banner.png')
+![](C:\Users\beatr\Documents\GitHub\banner3.png)
 
 
 
