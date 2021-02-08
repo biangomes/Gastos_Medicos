@@ -4,7 +4,9 @@
 
 ---
 
-![](C:\Users\beatr\Documents\GitHub\banner3.png)
+<img src="banner3.png">
+
+
 
 
 
